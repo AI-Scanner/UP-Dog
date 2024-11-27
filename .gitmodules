@@ -1,0 +1,3 @@
+[submodule "static/Quasar"]
+	path = static/Quasar
+	url = https://github.com/AI-Scanner/Quasar.git
